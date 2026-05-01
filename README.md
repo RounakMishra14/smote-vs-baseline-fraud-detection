@@ -37,7 +37,7 @@ This project explores:
 
 # 📊 Dataset Information
 
-Dataset used:
+Dataset used: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 
 📁 `creditcard.csv`
 
